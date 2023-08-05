@@ -1,0 +1,13 @@
+setup.py
+clean_folder/__init__.py
+clean_folder/archive_func.py
+clean_folder/clean.py
+clean_folder/file_replace.py
+clean_folder/fold_remov.py
+clean_folder/list_app.py
+clean_folder/norm_func.py
+clean_folder.egg-info/PKG-INFO
+clean_folder.egg-info/SOURCES.txt
+clean_folder.egg-info/dependency_links.txt
+clean_folder.egg-info/entry_points.txt
+clean_folder.egg-info/top_level.txt

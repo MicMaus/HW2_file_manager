@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 1.0
+Summary: script orginizes files to respective directories, normalizes and transliterates names of files na folders, creates lists of files as per category and lists of formats
+Author: MicMaus
